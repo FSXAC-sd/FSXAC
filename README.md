@@ -44,7 +44,7 @@
 
 -->
 
-![image](pic1.jpg)
+![image](https://www.muchen.ca/assets/img/pic1.jpg)
 
 I'm a M.A.Sc student at University of British Columbia; I like computers and games.
 
