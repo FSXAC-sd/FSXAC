@@ -48,4 +48,4 @@
 
 I'm a M.A.Sc student at University of British Columbia; I like computers and games.
 
-
+![pic1](pic1.jpg)
