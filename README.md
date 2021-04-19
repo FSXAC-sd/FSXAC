@@ -3,9 +3,7 @@
 
 ![pic](card.png)
 
-I'm a M.A.Sc student at University of British Columbia; I like computers and games.
-
-[![FSXAC's github stats](https://github-readme-stats.vercel.app/api?username=fsxac&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<!--I'm a M.A.Sc student at University of British Columbia; I like computers and games.-->
 
 <!--
 
